@@ -1,4 +1,4 @@
-# main.cpp
+/// main.cpp
 
 #include <iostream>
 
@@ -6,6 +6,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Que onda que pex!" << endl;
+    cout << "Que le Baga Berga Cñora!" << endl;
     return 0;
 }
